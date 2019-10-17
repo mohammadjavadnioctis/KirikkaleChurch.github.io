@@ -19,6 +19,27 @@ nav li:hover{
     color:aqua;
 }
 
+.background{
+    opacity:0.15;
+
+    
+  
+    width:100%;
+    
+    position:absolute;
+   
+    z-index:4;
+
+}
+
+.background img{
+    display:block;
+    width:80%;
+    margin:0 auto;
+
+}
+
+
 
 .massage{
     font-family:'Reem Kufi', sans-serif;
