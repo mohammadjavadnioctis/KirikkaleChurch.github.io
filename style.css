@@ -28,25 +28,23 @@ a:hover{
 
 
 .background{
+    background-image:url("img/cross.jpg");
+    
+    height:80vh;
+    background-size: 100%;
     opacity:0.15;
 
     
   
-    width:100%;
+    width:100vw;
     
-    position:absolute;
+    position:sticky;
+    top:136px;
    
     z-index:4;
-
+    background-repeat: no-repeat;
 }
 
-.background img{
-    display:block;
-    width:80%;
-    height:1000px;
-    margin:0 auto;
-
-}
 
 
 .massage{
